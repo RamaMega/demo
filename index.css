@@ -1,0 +1,25 @@
+
+.army{
+    text-align: center;
+    color: rgb(20, 14, 20);
+    bottom: 35%;
+}
+
+.kd{
+    text-align: center;
+    color: rgb(20, 14, 20);
+    bottom: 35%;  
+}
+.bts{
+    text-align: center;
+    color: rgb(20, 14, 20);
+    bottom: 35%;
+}
+
+.rama{
+    background-color: antiquewhite;
+    margin:auto;
+    justify-content: center;
+    align-items: center;
+    
+}
